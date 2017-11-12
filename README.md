@@ -42,7 +42,8 @@ I am a full-stack blockchain developer with a passion for crafting dynamic, user
 <img align="left" alt="Hardhat" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
 
 <img align="left" alt="Solidity" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<br />
+
+
 
 #
 
